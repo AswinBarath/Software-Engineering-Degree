@@ -7,7 +7,7 @@
 
 ## My Software Engineering Curriculum
 
-### Core Computer Science
+### Core Computer Science Courses
 
 | Course | ID |
 | - | - |
@@ -24,7 +24,7 @@
 
 ---
 
-### Core Software Electives
+### Core Software Engineering Electives
 
 | Course | ID |
 | - | - |
