@@ -1,7 +1,7 @@
 # Software Engineering Degree
 
-The Repository which showcase my Software Engineering Degree
-You will find the **Concepts, Skills and Knowledge I have Gained**
+- The Repository which showcase my Software Engineering Degree
+- You will find the **Concepts, Skills and Knowledge I have Gained**
 
 ---
 
