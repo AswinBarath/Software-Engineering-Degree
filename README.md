@@ -5,6 +5,13 @@
 
 ---
 
+## Table of Contents
+
+- [My Software Engineering Curriculum](#my-software-engineering-curriculum)
+- [Best Resources](#best-resources)
+
+---
+
 ## My Software Engineering Curriculum
 
 ### Core Computer Science Courses
@@ -80,3 +87,44 @@
 | Energy Studies | 18MCC02 |
 
 ---
+
+## Best Resources
+
+### Core Subjects
+- [Object Oriented Programming in Java - Kunal Kushwaha Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Data Structures and Algorithms in Java - Kunal Kushwaha Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Computer Organsation and Architecture - Bharat Acharya Course](https://bharatacharyaeducation.com/index.php/channel/view?id=8)
+- [Google IT Support Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/google-it-support)
+    - Technical Support **Fundamentals**
+    - The Bits and Bytes of **Computer Networking**
+    - **Operating Systems** and You: Becoming a Power User
+    - **System Administration** and IT Infrastructure Services
+    - IT **Security**: Defense against the digital dark arts
+- [PostgreSQL for Everybody Specialization - Coursera](https://www.coursera.org/specializations/postgresql-for-everybody)
+    - **Database** Design and Basic SQL in PostgreSQL
+    - Intermediate PostgreSQL
+    - JSON and Natural Language Processing in PostgreSQL
+    - Database Architecture, Scale, and NoSQL with Elasticsearch
+
+### Python Roadmap
+
+- [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
+- [Django for Everybody Specialization - Coursera](https://www.coursera.org/specializations/django)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2022 - Udemy](https://www.udemy.com/course/100-days-of-code/)
+- [Complete Python Developer: Zero to Mastery - Udemy](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+
+### Full-stack Web Development
+
+- [Web Design for Everybody: Basics of Web Development & Coding Specialization - Coursera](https://www.coursera.org/specializations/web-design)
+- [Web Applications for Everybody Specialization - Coursera](https://www.coursera.org/specializations/web-applications)
+
+### Software Engineering
+
+- [Software Development Lifecycle Specialization - Coursera](https://www.coursera.org/specializations/software-development-lifecycle)
+- [Software Design and Architecture Specialization - Coursera](https://www.coursera.org/specializations/software-design-architecture)
+    - Object-Oriented Design with Java
+    - Design Patterns with Java
+    - Software Architecture with Android project capstone
+    - Service-Oriented Architecture inlcudes REST, Web Services and Android application with Elasticsearch capstone
+- [Google Project Management: Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/google-project-management) (Optional) (Advanced)
+- [Software Product Management Specialization - Coursera](https://www.coursera.org/specializations/product-management) (Optional) (Advanced)
