@@ -79,12 +79,34 @@
 | Engineering Mathematics II | 18BS2MA01 |
 | Physics | 18BSPH02,L |
 | Chemistry | 18BSCH03, L |
-| Basics of Electrical Engineering | 18ESEE02 |
 | Renewable Energy Sources | 18EEOE01 |
+| Basics of Electrical Engineering | 18ESEE02 |
 | Engineering Graphics | 18ESME03 |
 | Workshop Practice | 18ESME04L |
 | Constituition of India | 18MCC01 |
 | Energy Studies | 18MCC02 |
+
+---
+
+## My Resources
+
+### Computer Science Fundamentals
+
+| <a align="left" href="https://github.com/AswinBarath/Object-Oriented-Programming" title="Object-Oriented-Programming"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Object-Oriented-Programming&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Operating-Systems" title="Operating-Systems"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Operating-Systems&theme=react&border_color=61dafb&border_radius=10"></a> |
+| - | - |
+| <a align="left" href="https://github.com/AswinBarath/Computer-Networks" title="Computer-Networks"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Computer-Networks&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Database-Management-Systems" title="Database-Management-Systems"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Database-Management-Systems&theme=react&border_color=61dafb&border_radius=10"></a> |
+| <a align="left" href="https://github.com/AswinBarath/Data-Structures-and-Algorithms" title="Data-Structures-and-Algorithms"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Data-Structures-and-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Data-Structures-and-Algorithms" title="Data-Structures-and-Algorithms"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Data-Structures-and-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a> |
+| | |
+
+### Software Engineering Core Electives
+
+| <a align="left" href="https://github.com/AswinBarath/Agile-Software-Development" title="Agile-Software-Development"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Agile-Software-Development&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/DevOps-Essentials" title="DevOps-Essentials"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=DevOps-Essentials&theme=react&border_color=61dafb&border_radius=10"></a> |
+| - | - |
+| <a align="left" href="https://github.com/AswinBarath/Object-Oriented-Design" title="Object-Oriented-Design"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Object-Oriented-Design&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Software-Engineering" title="Software-Engineering"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Software-Engineering&theme=react&border_color=61dafb&border_radius=10"></a> |
+| <a align="left" href="https://github.com/AswinBarath/Software-Testing" title="Software-Testing"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Software-Testing&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Software-Metrics" title="Software-Metrics"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Software-Metrics&theme=react&border_color=61dafb&border_radius=10"></a> |
+| <a align="left" href="https://github.com/AswinBarath/Software-Quality-Management" title="Software-Quality-Management"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Software-Quality-Management&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="right" href="https://github.com/AswinBarath/Software-Project-Management" title="Software-Project-Management"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Software-Project-Management&theme=react&border_color=61dafb&border_radius=10"></a> |
+
+
 
 ---
 
