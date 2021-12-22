@@ -14,10 +14,10 @@
 
 ## My Software Engineering Curriculum
 
-### Core Computer Science Courses
-
-| Course | ID |
+| Core Computer Science Courses | 🖥💾📀 |
 | - | - |
+| **Course** | **ID** |
+| ⬇ | ⬇ |
 | Problem Solving through Programming in C | 18ESCS01, L |
 | Mathematics for Computer Science | 18BS3CS02 |
 | Data Structures using C | 18CSI301, L |
@@ -28,13 +28,10 @@
 | Operating Systems | 18CS4SP05, L |
 | Computer Organisation and Architecture | 18CS4SP06 |
 | Computer Networks | 18CS4SP07 |
-
----
-
-### Core Software Engineering Electives
-
-| Course | ID |
 | - | - |
+| **Software Engineering Core Electives** | 🥤👨‍💻🍦 |
+| **Course** | **ID** |
+| ⬇ | ⬇ |
 | Sotware Engineering | 18CS4SE01 |
 | Web Technology | 18CS5SE02, L |
 | Software Quality Management | 18CS5SE03 |
@@ -43,13 +40,10 @@
 | Software Testing | 18CS6SE06 |
 | Software Metrics | 18CS6SE07 |
 | DevOps | 18CS7SE08 |
-
----
-
-### Department Electives
-
-| Course | ID |
 | - | - |
+| **Department Electives** | 🖲💻💽 |
+| **Course** | **ID** |
+| ⬇ | ⬇ |
 | Theory of Computation | 18CS5SD01 |
 | Information Security | 18CT6OE11 |
 | Cloud Computing | 18SE5DE11 |
@@ -57,24 +51,18 @@
 | Server Administration | 18SE6DE31 |
 | Secure Programming | 18SE7DE43, L |
 | Software Project Management | 18SE7DE53 |
-
----
-
-### Soft Skills
-
-| Course | ID |
 | - | - |
+| **Soft Skills** | 💬🗣🗨 |
+| **Course** | **ID** |
+| ⬇ | ⬇ |
 | Communication English | 18HSS01 |
 | Sociology | 18HSS02 |
 | Economics for Engineers | 18HSS03 |
 | Business Communication & Presentation Skills | 18HSS04 |
-
----
-
-## Basic Science & Electical Engineering
-
-| Course | ID |
 | - | - |
+| **Basic Science & Electical Engineering** | 🧪👨‍🔬🔬 |
+| **Course** | **ID** |
+| ⬇ | ⬇ |
 | Engineering Mathematics I | 18BS1MA01 |
 | Engineering Mathematics II | 18BS2MA01 |
 | Physics | 18BSPH02,L |
