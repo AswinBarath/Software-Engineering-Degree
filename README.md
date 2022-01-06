@@ -12,9 +12,10 @@
 
 ---
 
+<!-- 
 ## My Software Engineering Curriculum
 
-| Core Computer Science Courses | 🖥💾📀 |
+| **Core Computer Science Courses** | 🖥💾📀 |
 | - | - |
 | **Course** | **ID** |
 | ⬇ | ⬇ |
@@ -28,6 +29,7 @@
 | Operating Systems | 18CS4SP05, L |
 | Computer Organisation and Architecture | 18CS4SP06 |
 | Computer Networks | 18CS4SP07 |
+| IT Workshop (Python) | 18CS5SP08, L | 
 | - | - |
 | **Software Engineering Core Electives** | 🥤👨‍💻🍦 |
 | **Course** | **ID** |
@@ -73,6 +75,53 @@
 | Workshop Practice | 18ESME04L |
 | Constituition of India | 18MCC01 |
 | Energy Studies | 18MCC02 |
+
+---
+ -->
+
+## My Software Engineering Curriculum
+
+| **CS: Computer Science & SP: Specialization (Core)** | 🖥💾📀 | 🚧 | **SE: Software Engineering (Core)** | 🥤👨‍💻🍦 |
+| - | - | - | - | - |
+| **Course** | **ID** | 🚧 | **Course** | **ID** |
+| ⬇ | ⬇ | 🚧 | ⬇ | ⬇ |
+| Problem Solving through Programming in C | 18ESCS01, L | 🚧 | Sotware Engineering | 18CS4SE01 |
+| Mathematics for Computer Science | 18BS3CS02 | 🚧 | Web Technology | 18CS5SE02, L |
+| Data Structures using C | 18CSI301, L | 🚧 | Software Quality Management | 18CS5SE03 |
+| Object Oriented Programming using Java | 18CSI302, L | 🚧 | Agile Software Engineering | 18CS5SE04 |
+| Design and Analysis of Algorithms | 18CSI401, L | 🚧 | Object Oriented Analysis and Design | 18CS6SE05 |
+| Digital Electronics | 18CS4SP03, L | 🚧 | Software Testing | 18CS6SE06 |
+| Database Management Systems | 18CS4SP04, L | 🚧 | Software Metrics | 18CS6SE07 |
+| Operating Systems | 18CS4SP05, L | 🚧 | DevOps | 18CS7SE08 |
+| Computer Organisation and Architecture | 18CS4SP06 | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| Computer Networks | 18CS4SP07 | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| IT Workshop (Python) | 18CS5SP08, L | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| 🌈 | 🌈 | 🌈 | 🌈 | 🌈 |
+| **DE: Discipline Electives** | 🖲💻💽 | 🚧 | **HSS: Humanity & Social Science** | 💬🗣🗨 |
+| **Course** | **ID** | 🚧 | **Course** | **ID** |
+| ⬇ | ⬇ | 🚧 | ⬇ | ⬇ |
+| Theory of Computation | 18CS5SD01 | 🚧 | Communication English | 18HSS01 |
+| Information Security | 18CT6OE11 | 🚧 | Sociology | 18HSS02 |
+| Cloud Computing | 18SE5DE11 | 🚧 | Economics for Engineers | 18HSS03 |
+| Mobile Application Development | 18SE5DE21 | 🚧 | Business Communication & Presentation Skills | 18HSS04 |
+| Server Administration | 18SE6DE31 | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| Secure Programming | 18SE7DE43, L | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| Software Project Management | 18SE7DE53 | 🚧 | ☀⛅🌧🌩🌧☁⛅☀ | ☀⛅🌧🌩🌧☁⛅☀ |
+| 🌈 | 🌈 | 🌈 | 🌈 | 🌈 |
+| **BS: Basic Science** | 🧪👨‍🔬🔬 | 🚧 | **ES: Engineering Science** | 🧪👨‍🔬🔬 |
+| **Course** | **ID** | 🚧 | **Course** | **ID** |
+| ⬇ | ⬇ | 🚧 | ⬇ | ⬇ |
+| Engineering Mathematics I | 18BS1MA01 | 🚧 | Basics of Electrical Engineering | 18ESEE02 |
+| Engineering Mathematics II | 18BS2MA01 | 🚧 | Engineering Graphics | 18ESME03 |
+| Physics | 18BSPH02,L | 🚧 | Workshop Practice | 18ESME04L |
+| Chemistry | 18BSCH03, L | 🚧 | Renewable Energy Sources | 18EEOE01 |
+| 🌈 | 🌈 | 🌈 | 🌈 | 🌈 |
+| **MC: Mandatory Course - Non Credit** | 🧪👨‍🔬🔬 | 🚧 | **MC: Mandatory Course - Non Credit** | 🧪👨‍🔬🔬 |
+| **Course** | **ID** | 🚧 | **Course** | **ID** |
+| ⬇ | ⬇ | 🚧 | ⬇ | ⬇ |
+| Induction Programme | ☀⛅🌧🌩🌧☁⛅☀ | 🚧 | Induction Programme | ☀⛅🌧🌩🌧☁⛅☀ |
+| Constituition of India | 18MCC01 | 🚧 | Energy Studies | 18MCC02 |
+| 🌈 | 🌈 | 🌈 | 🌈 | 🌈 |
 
 ---
 
